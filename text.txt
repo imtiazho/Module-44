@@ -1,0 +1,5 @@
+Single Page Applcation
+1. Single-page applications are the most popular way to create websites that load faster without    hitting the server every time the user interacts with the application.
+2. The major difference between multi-page and single-page applications is that single-page apps download the page a single time once it is executed.
+3. As soon as a user interacts with the app, only the required component will be modified, not the complete application.
+4. An important feature of single-page applications is performance.
